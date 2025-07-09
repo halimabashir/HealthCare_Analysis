@@ -1,5 +1,6 @@
 # HealthCare_Analysis
 The dataset is referred from Kaggle https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
 In this project, I worked on a healthcare dataset to explore and understand patient and hospital-related data. I started by cleaning the data and organizing it into separate tables like patients, visits, and doctors to make it easier to analyze.
 Using both SQL and Python, I was able to answer important questions like:
 Which gender and blood type are most common among admitted patients.
